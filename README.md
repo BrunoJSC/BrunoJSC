@@ -2,8 +2,8 @@
 
 <h1>Bruno de Jesus</h1>
 
-<p style="margin: 10px">
-  <a href="mailto:bruno.jscx@gmail.com">
+<p>
+  <a href="mailto:bruno.jscx@gmail.com" rel="nofollow">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 
