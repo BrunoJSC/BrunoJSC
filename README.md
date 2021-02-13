@@ -2,8 +2,11 @@
 
 <h1>Bruno de Jesus</h1>
 
-<p>
-  <a href="https://www.linkedin.com/in/brunodejesuslk/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> 
+<p style="margin: 10px">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+
 </p>
 
 <br />
