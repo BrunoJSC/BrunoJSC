@@ -1,4 +1,4 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/BrunoJSC/658c1dfab8439ca08b4b783cbf5b6f2a/raw/0c8c60b95647845181659de9f18c1dc62ecb589a/githubcar.svg" />
+<img align="right" height="560em" src="https://raw.githubusercontent.com/gist/BrunoJSC/658c1dfab8439ca08b4b783cbf5b6f2a/raw/0c8c60b95647845181659de9f18c1dc62ecb589a/githubcar.svg" />
 
 <h1 align="left">Hi <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px">, I'mBruno de Jesus</h1>
 
@@ -20,7 +20,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<br><br><br>
+<br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=BrunoJSC&show_icons=true&theme=vision-friendly-dark" alt="BrunoJSC's stats"/>
