@@ -20,7 +20,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)&nbsp;
 
 
-<br><br>
+<br><br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
 <img width="530em" src="https://github-readme-stats.vercel.app/api?username=BrunoJSC&show_icons=true&theme=vision-friendly-dark" alt="BrunoJSC's stats"/>
