@@ -30,3 +30,16 @@
 <br><br>
 
 ## Contact
+
+<p align="left" style="background:yellow">
+  <a href="https://www.linkedin.com/in/brunodejesuslk/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/-BrunoJSC-05122A?style=flat&logo=linkedin" alt="linkedin"/>
+</a>
+  
+   <a href="https://instagram.com/_bruno_jsc" target="_blank">
+ <img align="center" src="https://img.shields.io/badge/-_bruno_jsc-05122A?style=flat&logo=instagram" alt="instagram"/>
+</a>
+</p>
+
+- 🌱 I’m currently learning Rocketseat
+
