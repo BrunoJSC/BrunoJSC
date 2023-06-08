@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=BrunoJSC&color=yellow" alt="Profile views" /> </p>
 
-- 🔥 Junior Web Developer
+- 🔥 Software Enginner
 - 💬 Ask me about **JavaScript, HTML, CSS, Node.JS**
 
 <br><br>
