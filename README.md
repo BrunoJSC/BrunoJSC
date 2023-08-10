@@ -28,8 +28,7 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-<img width="530em" src="https://github-readme-stats.vercel.app/api?username=BrunoJSC&show_icons=true&theme=vision-friendly-dark" alt="BrunoJSC's stats"/>
-<img width="530em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BrunoJSC&layout=compact&theme=vision-friendly-dark" alt="BrunoJSC's most languages"/>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BrunoJSC=anuraghazra&langs_count=8)
 </p>
 
 <br><br>
