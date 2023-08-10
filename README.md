@@ -28,7 +28,7 @@
 <br><br>
 ## ⚙️ &nbsp;GitHub Analytics
 <p align="left">
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BrunoJSC=anuraghazra&langs_count=8)
+
 </p>
 
 <br><br>
