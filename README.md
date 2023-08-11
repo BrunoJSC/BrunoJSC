@@ -7,6 +7,7 @@
 
 <br><br>
 ## 🛠 &nbsp;Tech Stack
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?BrunoJSC=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)&nbsp;
 ![TypeScript](https://img.shields.io/badge/-TypeScript-05122A?style=flat&logo=typescript)&nbsp;
